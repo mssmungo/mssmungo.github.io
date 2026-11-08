@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.mssmungo.twa",
+    "sha256_cert_fingerprints": ["D1:9C:14:88:BA:38:A0:A5:32:12:63:5A:2B:92:55:FC:8E:55:89:57:F7:3C:CD:65:0A:9D:5B:63:30:90:61:29"]
+  }
+}]￼Enter
